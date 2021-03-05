@@ -1,2 +1,2 @@
-# java_course
-java course helpful for automation
+# butchalka-java-course
+This repository collects the chosen Java code exercises that I've done from Tim Butchalka's Udemy course.
